@@ -1,0 +1,2174 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.06,
+  "kind": "s",
+  "ar": "",
+  "ms": "Hadis keempat:",
+  "ref": "",
+  "w": [
+   0,
+   1
+  ]
+ },
+ {
+  "start": 4.08,
+  "end": 7.72,
+  "kind": "h",
+  "ar": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللهِ بْنِ مَسْعُودٍ رَضِيَ اللهُ عَنْهُ قَالَ:",
+  "ms": "Daripada Abu Abdul Rahman Abdullah bin Mas‘ud رضي الله عنه, beliau berkata:",
+  "ref": "",
+  "w": [
+   2,
+   12
+  ]
+ },
+ {
+  "start": 7.72,
+  "end": 12.62,
+  "kind": "h",
+  "ar": "حَدَّثَنَا رَسُولُ اللهِ ﷺ وَهُوَ الصَّادِقُ الْمَصْدُوقُ:",
+  "ms": "Telah menceritakan kepada kami Rasulullah ﷺ, yang merupakan seorang yang benar lagi dibenarkan:",
+  "ref": "",
+  "w": [
+   13,
+   22
+  ]
+ },
+ {
+  "start": 12.62,
+  "end": 16.24,
+  "kind": "h",
+  "ar": "«إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً،",
+  "ms": "“Sesungguhnya seseorang daripada kamu dihimpunkan penciptaannya di dalam perut ibunya selama empat puluh hari sebagai air mani.",
+  "ref": "",
+  "w": [
+   23,
+   31
+  ]
+ },
+ {
+  "start": 16.24,
+  "end": 20.22,
+  "kind": "h",
+  "ar": "ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ،",
+  "ms": "Kemudian menjadi segumpal darah seperti itu. Kemudian menjadi seketul daging seperti itu juga.",
+  "ref": "",
+  "w": [
+   32,
+   41
+  ]
+ },
+ {
+  "start": 20.22,
+  "end": 23.52,
+  "kind": "h",
+  "ar": "ثُمَّ يُرْسِلُ اللهُ إِلَيْهِ الْمَلَكَ، فَيَنْفُخُ فِيهِ الرُّوحَ،",
+  "ms": "Kemudian diutuskan malaikat, lalu ditiupkan ke dalamnya roh.",
+  "ref": "",
+  "w": [
+   42,
+   48
+  ]
+ },
+ {
+  "start": 23.52,
+  "end": 30.0,
+  "kind": "h",
+  "ar": "وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ وَأَجَلِهِ وَعَمَلِهِ، وَشَقِيٌّ أَوْ سَعِيدٌ،",
+  "ms": "Dan diperintahkan kepada malaikat tersebut dengan empat kalimah, iaitu dituliskan ketetapan rezekinya, ajalnya dan amalannya, dan adakah dia seorang yang sengsara atau bahagia.",
+  "ref": "",
+  "w": [
+   49,
+   59
+  ]
+ },
+ {
+  "start": 30.0,
+  "end": 35.24,
+  "kind": "h",
+  "ar": "فَوَالَّذِي لَا إِلَهَ غَيْرُهُ إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ",
+  "ms": "Dan demi Tuhan yang tiada Tuhan selain-Nya, sesungguhnya seseorang daripada kamu pasti beramal dengan amal ahli syurga",
+  "ref": "",
+  "w": [
+   60,
+   70
+  ]
+ },
+ {
+  "start": 35.24,
+  "end": 37.84,
+  "kind": "h",
+  "ar": "حَتَّى مَا يَكُونَ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ،",
+  "ms": "sehingga jarak di antara dia dan syurga hanyalah sehasta,",
+  "ref": "",
+  "w": [
+   71,
+   77
+  ]
+ },
+ {
+  "start": 37.84,
+  "end": 41.46,
+  "kind": "h",
+  "ar": "فَيَسْبِقُ عَلَيْهِ الْكِتَابُ فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا،",
+  "ms": "lalu mendahului ke atasnya kitab, yakni ketetapan. Maka dia beramal dengan amal ahli neraka, lantas masuk ke dalamnya.",
+  "ref": "",
+  "w": [
+   78,
+   85
+  ]
+ },
+ {
+  "start": 41.46,
+  "end": 46.24,
+  "kind": "h",
+  "ar": "وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى مَا يَكُونَ بَيْنَهُ وَبَيْنَهَا إِلَّا ذِرَاعٌ،",
+  "ms": "Dan sesungguhnya seseorang daripada kamu beramal dengan amal ahli neraka sehingga jarak antara dia dan neraka hanyalah sehasta,",
+  "ref": "",
+  "w": [
+   86,
+   98
+  ]
+ },
+ {
+  "start": 46.24,
+  "end": 49.96,
+  "kind": "h",
+  "ar": "فَيَسْبِقُ عَلَيْهِ الْكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلُهَا»\nمُتَّفَقٌ عَلَيْهِ",
+  "ms": "lalu mendahului ke atasnya kitab. Maka dia beramal dengan amal ahli syurga, lantas dia masuk ke dalamnya.”",
+  "ref": "Riwayat al-Bukhari dan Muslim — Hadis 40, no. 4",
+  "w": [
+   99,
+   108
+  ]
+ },
+ {
+  "start": 49.96,
+  "end": 53.22,
+  "kind": "s",
+  "ar": "",
+  "ms": "Bahagian kedua hadis ini akan dibincangkan nanti:",
+  "ref": "",
+  "w": [
+   109,
+   116
+  ]
+ },
+ {
+  "start": 53.22,
+  "end": 58.54,
+  "kind": "s",
+  "ar": "",
+  "ms": "adakah ia sabda Rasulullah ﷺ atau kata-kata Abdullah bin Mas‘ud رضي الله عنه.",
+  "ref": "",
+  "w": [
+   117,
+   135
+  ]
+ },
+ {
+  "start": 58.54,
+  "end": 60.74,
+  "kind": "s",
+  "ar": "",
+  "ms": "Perawi hadis: Abdullah bin Mas‘ud al-Hudhali,",
+  "ref": "",
+  "w": [
+   136,
+   142
+  ]
+ },
+ {
+  "start": 60.74,
+  "end": 64.96,
+  "kind": "s",
+  "ar": "",
+  "ms": "Abu Abdul Rahman, seorang faqih, alim dan imam, rahimahullah ta‘ala.",
+  "ref": "",
+  "w": [
+   143,
+   151
+  ]
+ },
+ {
+  "start": 64.96,
+  "end": 67.68,
+  "kind": "s",
+  "ar": "",
+  "ms": "Beliau terkenal dengan gelaran Ibn Ummi ‘Abd.",
+  "ref": "",
+  "w": [
+   152,
+   155
+  ]
+ },
+ {
+  "start": 67.86,
+  "end": 69.1,
+  "kind": "s",
+  "ar": "",
+  "ms": "Beliau melakukan dua hijrah,",
+  "ref": "",
+  "w": [
+   156,
+   157
+  ]
+ },
+ {
+  "start": 69.1,
+  "end": 72.6,
+  "kind": "s",
+  "ar": "",
+  "ms": "salah seorang qari, dan antara yang banyak meriwayatkan hadis daripada Nabi ﷺ.",
+  "ref": "",
+  "w": [
+   158,
+   167
+  ]
+ },
+ {
+  "start": 72.6,
+  "end": 73.72,
+  "kind": "s",
+  "ar": "",
+  "ms": "Nabi ﷺ bersabda:",
+  "ref": "",
+  "w": [
+   168,
+   172
+  ]
+ },
+ {
+  "start": 73.72,
+  "end": 79.72,
+  "kind": "h",
+  "ar": "«مَنْ أَحَبَّ أَنْ يَقْرَأَ الْقُرْآنَ غَضًّا كَمَا أُنْزِلَ فَلْيَقْرَأْهُ عَلَى قِرَاءَةِ ابْنِ أُمِّ عَبْدٍ»",
+  "ms": "“Sesiapa yang suka membaca al-Quran dengan segar sebagaimana ia diturunkan, hendaklah dia membacanya mengikut bacaan Ibn Ummi ‘Abd.”",
+  "ref": "",
+  "w": [
+   173,
+   186
+  ]
+ },
+ {
+  "start": 79.72,
+  "end": 83.04,
+  "kind": "s",
+  "ar": "",
+  "ms": "Iaitu Abdullah bin Mas‘ud. Hadis ini diriwayatkan oleh Ahmad.",
+  "ref": "",
+  "w": [
+   187,
+   194
+  ]
+ },
+ {
+  "start": 83.04,
+  "end": 86.32,
+  "kind": "s",
+  "ar": "",
+  "ms": "Abdullah bin Mas‘ud wafat pada tahun 33 Hijrah, pada zaman khalifah Uthman,",
+  "ref": "",
+  "w": [
+   195,
+   205
+  ]
+ },
+ {
+  "start": 86.32,
+  "end": 89.12,
+  "kind": "s",
+  "ar": "",
+  "ms": "ketika berumur lebih 60 tahun, dan dikebumikan di Baqi‘.",
+  "ref": "",
+  "w": [
+   206,
+   211
+  ]
+ },
+ {
+  "start": 89.12,
+  "end": 91.4,
+  "kind": "s",
+  "ar": "",
+  "ms": "Semoga Allah meredhainya dan menjadikannya redha.",
+  "ref": "",
+  "w": [
+   212,
+   215
+  ]
+ },
+ {
+  "start": 91.4,
+  "end": 94.92,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kata-katanya: “Telah menceritakan kepadaku as-Sadiq al-Masduq.”",
+  "ref": "",
+  "w": [
+   216,
+   219
+  ]
+ },
+ {
+  "start": 94.92,
+  "end": 96.86,
+  "kind": "s",
+  "ar": "",
+  "ms": "Mengapa beliau mendahulukan mukadimah ini?",
+  "ref": "",
+  "w": [
+   220,
+   223
+  ]
+ },
+ {
+  "start": 96.86,
+  "end": 100.24,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ulama berkata: maksudnya, benar pada kata-katanya, dan dibenarkan",
+  "ref": "",
+  "w": [
+   224,
+   229
+  ]
+ },
+ {
+  "start": 100.24,
+  "end": 101.98,
+  "kind": "s",
+  "ar": "",
+  "ms": "pada wahyu yang datang kepadanya.",
+  "ref": "",
+  "w": [
+   230,
+   233
+  ]
+ },
+ {
+  "start": 101.98,
+  "end": 104.78,
+  "kind": "s",
+  "ar": "",
+  "ms": "Sebagaimana kata Ali رضي الله عنه ketika diutus oleh Nabi ﷺ:",
+  "ref": "",
+  "w": [
+   234,
+   246
+  ]
+ },
+ {
+  "start": 104.78,
+  "end": 107.4,
+  "kind": "s",
+  "ar": "",
+  "ms": "“Demi Allah, Rasulullah tidak berdusta dan tidak didustakan.”",
+  "ref": "",
+  "w": [
+   247,
+   253
+  ]
+ },
+ {
+  "start": 107.4,
+  "end": 112.94,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kerana baginda benar, dan yang mengkhabarkan kepada baginda juga benar — benar lagi dibenarkan.",
+  "ref": "",
+  "w": [
+   254,
+   261
+  ]
+ },
+ {
+  "start": 112.94,
+  "end": 117.64,
+  "kind": "s",
+  "ar": "",
+  "ms": "Begitu juga di sini. Ali bin Abi Talib berkata: “Baginda tidak berdusta dan tidak didustakan.”",
+  "ref": "",
+  "w": [
+   262,
+   271
+  ]
+ },
+ {
+  "start": 117.64,
+  "end": 119.5,
+  "kind": "s",
+  "ar": "",
+  "ms": "Itulah makna as-Sadiq al-Masduq.",
+  "ref": "",
+  "w": [
+   272,
+   275
+  ]
+ },
+ {
+  "start": 119.5,
+  "end": 122.44,
+  "kind": "s",
+  "ar": "",
+  "ms": "Beliau memulakan hadis dengan “as-Sadiq al-Masduq”,",
+  "ref": "",
+  "w": [
+   276,
+   281
+  ]
+ },
+ {
+  "start": 122.44,
+  "end": 125.2,
+  "kind": "s",
+  "ar": "",
+  "ms": "kerana apa yang akan dikhabarkan itu perkara ghaib.",
+  "ref": "",
+  "w": [
+   282,
+   287
+  ]
+ },
+ {
+  "start": 125.2,
+  "end": 128.52,
+  "kind": "s",
+  "ar": "",
+  "ms": "Baginda bercakap tentang janin dalam perut ibunya —",
+  "ref": "",
+  "w": [
+   288,
+   298
+  ]
+ },
+ {
+  "start": 128.52,
+  "end": 130.74,
+  "kind": "s",
+  "ar": "",
+  "ms": "khabar yang ajaib, khabar ghaib.",
+  "ref": "",
+  "w": [
+   299,
+   302
+  ]
+ },
+ {
+  "start": 130.74,
+  "end": 133.34,
+  "kind": "s",
+  "ar": "",
+  "ms": "Seolah-olah beliau berkata kepada orang ramai: “Perhatikan!",
+  "ref": "",
+  "w": [
+   303,
+   307
+  ]
+ },
+ {
+  "start": 133.34,
+  "end": 137.64,
+  "kind": "s",
+  "ar": "",
+  "ms": "Yang menceritakan perkara ini bukan aku. Yang menceritakannya ialah orang yang diberi wahyu.",
+  "ref": "",
+  "w": [
+   308,
+   319
+  ]
+ },
+ {
+  "start": 137.64,
+  "end": 142.78,
+  "kind": "s",
+  "ar": "",
+  "ms": "Yang menceritakannya ialah Rasulullah ﷺ; telah menceritakannya kepadaku as-Sadiq al-Masduq.”",
+  "ref": "",
+  "w": [
+   320,
+   332
+  ]
+ },
+ {
+  "start": 142.78,
+  "end": 146.46,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maka ia mukadimah supaya orang ramai menerima apa yang akan dikhabarkan",
+  "ref": "",
+  "w": [
+   333,
+   340
+  ]
+ },
+ {
+  "start": 146.46,
+  "end": 151.3,
+  "kind": "s",
+  "ar": "",
+  "ms": "tentang perkara ghaib berkenaan janin dalam perut ibunya,",
+  "ref": "",
+  "w": [
+   341,
+   349
+  ]
+ },
+ {
+  "start": 152.06,
+  "end": 157.88,
+  "kind": "s",
+  "ar": "",
+  "ms": "kerana ia perkara tersembunyi, seperti yang kami katakan — dalam perut ibumu.",
+  "ref": "",
+  "w": [
+   350,
+   357
+  ]
+ },
+ {
+  "start": 157.88,
+  "end": 158.86,
+  "kind": "s",
+  "ar": "",
+  "ms": "Nabi ﷺ bersabda:",
+  "ref": "",
+  "w": [
+   358,
+   363
+  ]
+ },
+ {
+  "start": 158.86,
+  "end": 161.92,
+  "kind": "h",
+  "ar": "«إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا",
+  "ms": "“Sesungguhnya seseorang daripada kamu dihimpunkan penciptaannya di dalam perut ibunya selama empat puluh hari,",
+  "ref": "",
+  "w": [
+   364,
+   372
+  ]
+ },
+ {
+  "start": 161.92,
+  "end": 166.72,
+  "kind": "h",
+  "ar": "ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ،",
+  "ms": "kemudian menjadi segumpal darah seperti itu, kemudian menjadi seketul daging seperti itu juga,",
+  "ref": "",
+  "w": [
+   373,
+   382
+  ]
+ },
+ {
+  "start": 166.72,
+  "end": 170.5,
+  "kind": "h",
+  "ar": "ثُمَّ يُرْسَلُ إِلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ،",
+  "ms": "kemudian diutuskan malaikat, lalu ditiupkan ke dalamnya roh,",
+  "ref": "",
+  "w": [
+   383,
+   389
+  ]
+ },
+ {
+  "start": 170.5,
+  "end": 179.64,
+  "kind": "h",
+  "ar": "وَيُؤْمَرُ بِكَتْبِ أَرْبَعٍ: رِزْقِهِ، أَجَلِهِ، عَمَلِهِ، خَاتِمَتِهِ — شَقِيٌّ أَوْ سَعِيدٌ»",
+  "ms": "dan diperintahkan menulis empat perkara: rezekinya, ajalnya, amalannya, pengakhirannya — sengsara atau bahagia.”",
+  "ref": "",
+  "w": [
+   390,
+   399
+  ]
+ },
+ {
+  "start": 179.64,
+  "end": 184.38,
+  "kind": "s",
+  "ar": "",
+  "ms": "Perkara-perkara ini ditulis, atau telah ditulis untukmu ketika kamu dalam perut ibumu.",
+  "ref": "",
+  "w": [
+   400,
+   409
+  ]
+ },
+ {
+  "start": 184.38,
+  "end": 187.57,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dan ia ditulis untuk setiap insan yang dilahirkan,",
+  "ref": "",
+  "w": [
+   410,
+   415
+  ]
+ },
+ {
+  "start": 187.57,
+  "end": 196.26,
+  "kind": "s",
+  "ar": "",
+  "ms": "iaitu apabila telah berlalu sama ada 42 malam, atau 120 hari,",
+  "ref": "",
+  "w": [
+   416,
+   424
+  ]
+ },
+ {
+  "start": 196.26,
+  "end": 198.52,
+  "kind": "s",
+  "ar": "",
+  "ms": "menurut perselisihan ulama dalam masalah ini.",
+  "ref": "",
+  "w": [
+   425,
+   432
+  ]
+ },
+ {
+  "start": 198.52,
+  "end": 200.96,
+  "kind": "s",
+  "ar": "",
+  "ms": "Bilakah penulisan itu berlaku?",
+  "ref": "",
+  "w": [
+   433,
+   435
+  ]
+ },
+ {
+  "start": 200.96,
+  "end": 205.3,
+  "kind": "s",
+  "ar": "",
+  "ms": "Adakah selepas 42 hari, atau selepas 120 hari?",
+  "ref": "",
+  "w": [
+   436,
+   443
+  ]
+ },
+ {
+  "start": 205.3,
+  "end": 207.54,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini berdasarkan sabda Nabi ﷺ:",
+  "ref": "",
+  "w": [
+   444,
+   452
+  ]
+ },
+ {
+  "start": 207.54,
+  "end": 211.1,
+  "kind": "h",
+  "ar": "«إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا",
+  "ms": "“Sesungguhnya seseorang daripada kamu dihimpunkan penciptaannya di dalam perut ibunya selama empat puluh hari,",
+  "ref": "",
+  "w": [
+   453,
+   461
+  ]
+ },
+ {
+  "start": 211.1,
+  "end": 214.1,
+  "kind": "h",
+  "ar": "ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ»",
+  "ms": "kemudian menjadi segumpal darah seperti itu, kemudian menjadi seketul daging seperti itu juga.”",
+  "ref": "",
+  "w": [
+   462,
+   471
+  ]
+ },
+ {
+  "start": 214.1,
+  "end": 216.56,
+  "kind": "s",
+  "ar": "",
+  "ms": "“Seperti itu” — empat puluh hari lagi.",
+  "ref": "",
+  "w": [
+   472,
+   476
+  ]
+ },
+ {
+  "start": 216.56,
+  "end": 219.8,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maka jadilah 40, 40 dan 40 — 120 hari, iaitu empat bulan.",
+  "ref": "",
+  "w": [
+   477,
+   484
+  ]
+ },
+ {
+  "start": 219.8,
+  "end": 226.62,
+  "kind": "s",
+  "ar": "",
+  "ms": "Atau “seperti itu” bermaksud sehari, kemudian sehari; maka jadilah 40, tambah sehari dan sehari: 42 hari.",
+  "ref": "",
+  "w": [
+   485,
+   499
+  ]
+ },
+ {
+  "start": 226.62,
+  "end": 232.2,
+  "kind": "s",
+  "ar": "",
+  "ms": "Realitinya hari ini, pergerakan janin dalam perut ibu bermula pada minggu ketujuh atau keenam,",
+  "ref": "",
+  "w": [
+   500,
+   512
+  ]
+ },
+ {
+  "start": 232.2,
+  "end": 235.12,
+  "kind": "s",
+  "ar": "",
+  "ms": "iaitu selepas 42 hari, pergerakan janin bermula.",
+  "ref": "",
+  "w": [
+   513,
+   519
+  ]
+ },
+ {
+  "start": 235.12,
+  "end": 238.76,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tetapi adakah pergerakan ini tiupan roh atau tidak?",
+  "ref": "",
+  "w": [
+   520,
+   528
+  ]
+ },
+ {
+  "start": 238.76,
+  "end": 244.48,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini perkara yang ilmunya di sisi Allah Tabaraka wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   529,
+   536
+  ]
+ },
+ {
+  "start": 245.04,
+  "end": 249.44,
+  "kind": "s",
+  "ar": "",
+  "ms": "Sabdanya: “Lalu ditiupkan roh ke dalamnya, dan diperintahkan” — siapa yang memerintahkannya?",
+  "ref": "",
+  "w": [
+   537,
+   545
+  ]
+ },
+ {
+  "start": 249.44,
+  "end": 253.36,
+  "kind": "s",
+  "ar": "",
+  "ms": "Allah. Allah yang memerintahkan malaikat untuk menulis.",
+  "ref": "",
+  "w": [
+   546,
+   553
+  ]
+ },
+ {
+  "start": 253.36,
+  "end": 255.98,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dan dalam hadis — hadis Hudhaifah:",
+  "ref": "",
+  "w": [
+   554,
+   558
+  ]
+ },
+ {
+  "start": 255.98,
+  "end": 259.22,
+  "kind": "h",
+  "ar": "«مَا مِنْ نَفْسٍ مَنْفُوسَةٍ إِلَّا وَقَدْ كَتَبَ اللهُ مَكَانَهَا مِنَ الْجَنَّةِ وَالنَّارِ»",
+  "ms": "“Tiada satu jiwa pun yang bernyawa melainkan Allah telah menulis tempatnya di syurga dan di neraka.”",
+  "ref": "",
+  "w": [
+   559,
+   570
+  ]
+ },
+ {
+  "start": 259.22,
+  "end": 264.38,
+  "kind": "h",
+  "ar": "فَقَالَ رَجُلٌ: يَا رَسُولَ اللهِ، أَفَلَا نَتَّكِلُ عَلَى كِتَابِنَا وَنَدَعُ الْعَمَلَ؟",
+  "ms": "Seorang lelaki bertanya: “Wahai Rasulullah, tidakkah kami bergantung sahaja pada ketetapan kami dan meninggalkan amalan?”",
+  "ref": "",
+  "w": [
+   571,
+   581
+  ]
+ },
+ {
+  "start": 264.38,
+  "end": 267.32,
+  "kind": "h",
+  "ar": "قَالَ: «اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ،",
+  "ms": "Baginda bersabda: “Beramallah, kerana setiap orang dimudahkan kepada apa yang dia diciptakan untuknya.",
+  "ref": "",
+  "w": [
+   582,
+   588
+  ]
+ },
+ {
+  "start": 267.32,
+  "end": 271.04,
+  "kind": "h",
+  "ar": "أَمَّا أَهْلُ السَّعَادَةِ فَيُيَسَّرُونَ لِعَمَلِ أَهْلِ السَّعَادَةِ،",
+  "ms": "Adapun ahli kebahagiaan, mereka dimudahkan untuk amalan ahli kebahagiaan.",
+  "ref": "",
+  "w": [
+   589,
+   595
+  ]
+ },
+ {
+  "start": 271.04,
+  "end": 275.08,
+  "kind": "h",
+  "ar": "وَأَمَّا أَهْلُ الشَّقَاوَةِ فَيُيَسَّرُونَ لِعَمَلِ أَهْلِ الشَّقَاوَةِ»",
+  "ms": "Adapun ahli kesengsaraan, mereka dimudahkan untuk amalan ahli kesengsaraan.”",
+  "ref": "",
+  "w": [
+   596,
+   602
+  ]
+ },
+ {
+  "start": 275.08,
+  "end": 276.64,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dan dalam hadis yang lain:",
+  "ref": "",
+  "w": [
+   603,
+   605
+  ]
+ },
+ {
+  "start": 276.64,
+  "end": 278.22,
+  "kind": "h",
+  "ar": "«الْأَعْمَالُ بِالْخَوَاتِيمِ»",
+  "ms": "“Amalan itu dinilai berdasarkan pengakhirannya.”",
+  "ref": "",
+  "w": [
+   606,
+   607
+  ]
+ },
+ {
+  "start": 278.22,
+  "end": 280.66,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maksudnya, jangan bergantung pada apa yang ditulis,",
+  "ref": "",
+  "w": [
+   608,
+   614
+  ]
+ },
+ {
+  "start": 280.66,
+  "end": 282.67,
+  "kind": "s",
+  "ar": "",
+  "ms": "kerana kita tidak tahu apa yang telah ditulis.",
+  "ref": "",
+  "w": [
+   615,
+   620
+  ]
+ },
+ {
+  "start": 282.67,
+  "end": 285.66,
+  "kind": "s",
+  "ar": "",
+  "ms": "Aku tidak tahu, kamu pun tidak tahu apa yang ditulis.",
+  "ref": "",
+  "w": [
+   621,
+   631
+  ]
+ },
+ {
+  "start": 285.66,
+  "end": 289.86,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maka kita berusaha berbuat baik, dan memohon agar Allah menulis kebaikan untuk kita.",
+  "ref": "",
+  "w": [
+   632,
+   643
+  ]
+ },
+ {
+  "start": 289.86,
+  "end": 291.8,
+  "kind": "s",
+  "ar": "",
+  "ms": "Sama seperti perkara-perkara lain.",
+  "ref": "",
+  "w": [
+   644,
+   648
+  ]
+ },
+ {
+  "start": 291.8,
+  "end": 294.56,
+  "kind": "s",
+  "ar": "",
+  "ms": "Sekarang, jika kamu mahu bermusafir dan ada dua jalan:",
+  "ref": "",
+  "w": [
+   649,
+   653
+  ]
+ },
+ {
+  "start": 294.56,
+  "end": 305.16,
+  "kind": "s",
+  "ar": "",
+  "ms": "satu jalan berturap, terang, selamat, ada stesen minyak, dan orang ramai melaluinya;",
+  "ref": "",
+  "w": [
+   654,
+   662
+  ]
+ },
+ {
+  "start": 305.22,
+  "end": 312.58,
+  "kind": "s",
+  "ar": "",
+  "ms": "dan satu jalan lagi gelap, berlubang, ada penyamun, tiada stesen minyak.",
+  "ref": "",
+  "w": [
+   663,
+   674
+  ]
+ },
+ {
+  "start": 312.58,
+  "end": 317.06,
+  "kind": "s",
+  "ar": "",
+  "ms": "Jalan mana yang kamu pilih? Orang yang berakal memilih jalan pertama.",
+  "ref": "",
+  "w": [
+   675,
+   681
+  ]
+ },
+ {
+  "start": 317.06,
+  "end": 322.84,
+  "kind": "s",
+  "ar": "",
+  "ms": "Orang yang tidak berakal memilih jalan kedua, sambil berkata: “Mungkin Allah telah menulis untukku jalan ini,” lalu dia melaluinya.",
+  "ref": "",
+  "w": [
+   682,
+   695
+  ]
+ },
+ {
+  "start": 322.84,
+  "end": 325.86,
+  "kind": "s",
+  "ar": "",
+  "ms": "Orang berakal tidak sekali-kali berbuat begini; hanya orang tidak berakal.",
+  "ref": "",
+  "w": [
+   696,
+   707
+  ]
+ },
+ {
+  "start": 325.86,
+  "end": 331.06,
+  "kind": "s",
+  "ar": "",
+  "ms": "Begitu juga di sini. Orang berakal berkata: “Mungkin Allah telah menulis bahawa aku ahli kebahagiaan,”",
+  "ref": "",
+  "w": [
+   708,
+   719
+  ]
+ },
+ {
+  "start": 331.06,
+  "end": 335.6,
+  "kind": "s",
+  "ar": "",
+  "ms": "lalu dia beramal dengan amalan ahli kebahagiaan, dan bersangka baik terhadap Allah Subhanahu wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   720,
+   729
+  ]
+ },
+ {
+  "start": 335.6,
+  "end": 340.08,
+  "kind": "s",
+  "ar": "",
+  "ms": "Orang yang tidak berakal pula berkata: “Aku akan minum arak, berzina, mencuri, menderhakai ibu bapa,",
+  "ref": "",
+  "w": [
+   730,
+   738
+  ]
+ },
+ {
+  "start": 340.08,
+  "end": 344.44,
+  "kind": "s",
+  "ar": "",
+  "ms": "tidak solat, tidak puasa — mungkin Allah menulis aku ahli kesengsaraan.”",
+  "ref": "",
+  "w": [
+   739,
+   748
+  ]
+ },
+ {
+  "start": 344.44,
+  "end": 350.48,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini seperti orang yang melalui jalan berbahaya, kemudian berkata: “Mungkin Allah telah menulis untukku jalan ini.”",
+  "ref": "",
+  "w": [
+   749,
+   761
+  ]
+ },
+ {
+  "start": 350.48,
+  "end": 355.58,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini bukan perbuatan orang berakal, tetapi perbuatan orang bodoh. Ya.",
+  "ref": "",
+  "w": [
+   762,
+   771
+  ]
+ },
+ {
+  "start": 359.12,
+  "end": 363.1,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dalam hadis Hudhaifah bin Asid, baginda bersabda:",
+  "ref": "",
+  "w": [
+   772,
+   777
+  ]
+ },
+ {
+  "start": 363.1,
+  "end": 365.8,
+  "kind": "h",
+  "ar": "«إِذَا مَرَّ بِالنُّطْفَةِ ثِنْتَانِ وَأَرْبَعُونَ لَيْلَةً",
+  "ms": "“Apabila telah berlalu ke atas nutfah empat puluh dua malam…”",
+  "ref": "",
+  "w": [
+   778,
+   783
+  ]
+ },
+ {
+  "start": 365.8,
+  "end": 370.56,
+  "kind": "s",
+  "ar": "",
+  "ms": "Inilah perselisihan yang kami sebutkan tadi: 42 hari atau 120.",
+  "ref": "",
+  "w": [
+   784,
+   795
+  ]
+ },
+ {
+  "start": 370.56,
+  "end": 374.84,
+  "kind": "h",
+  "ar": "قَالَ: «إِذَا مَرَّ بِالنُّطْفَةِ ثِنْتَانِ وَأَرْبَعُونَ لَيْلَةً، بَعَثَ اللهُ إِلَيْهَا مَلَكًا،",
+  "ms": "Baginda bersabda: “Apabila telah berlalu ke atas nutfah empat puluh dua malam, Allah mengutuskan kepadanya seorang malaikat,",
+  "ref": "",
+  "w": [
+   796,
+   806
+  ]
+ },
+ {
+  "start": 374.84,
+  "end": 379.16,
+  "kind": "h",
+  "ar": "فَصَوَّرَهَا وَخَلَقَ سَمْعَهَا وَبَصَرَهَا وَجِلْدَهَا وَلَحْمَهَا وَعِظَامَهَا،",
+  "ms": "lalu malaikat itu membentuknya, dan menciptakan pendengarannya, penglihatannya, kulitnya, dagingnya dan tulangnya.",
+  "ref": "",
+  "w": [
+   807,
+   813
+  ]
+ },
+ {
+  "start": 379.16,
+  "end": 382.2,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kemudian dia berkata: “Wahai Tuhanku” — iaitu malaikat itu berkata —",
+  "ref": "",
+  "w": [
+   814,
+   819
+  ]
+ },
+ {
+  "start": 382.2,
+  "end": 386.26,
+  "kind": "h",
+  "ar": "يَا رَبِّ أَذَكَرٌ أَمْ أُنْثَى؟ فَيَقْضِي رَبُّكَ مَا شَاءَ، وَيَكْتُبُ الْمَلَكُ،",
+  "ms": "“Wahai Tuhanku, lelaki atau perempuan?” Lalu Tuhanmu memutuskan apa yang Dia kehendaki, dan malaikat pun menulisnya.",
+  "ref": "",
+  "w": [
+   820,
+   830
+  ]
+ },
+ {
+  "start": 386.26,
+  "end": 389.82,
+  "kind": "h",
+  "ar": "ثُمَّ يَقُولُ: يَا رَبِّ أَجَلُهُ، فَيَقُولُ رَبُّكَ مَا شَاءَ، وَيَكْتُبُ الْمَلَكُ،",
+  "ms": "Kemudian dia berkata: “Wahai Tuhanku, ajalnya?” Lalu Tuhanmu menetapkan apa yang Dia kehendaki, dan malaikat pun menulisnya.",
+  "ref": "",
+  "w": [
+   831,
+   841
+  ]
+ },
+ {
+  "start": 389.82,
+  "end": 393.4,
+  "kind": "h",
+  "ar": "ثُمَّ يَقُولُ: يَا رَبِّ رِزْقُهُ، فَيَقْضِي رَبُّكَ مَا شَاءَ، وَيَكْتُبُ الْمَلَكُ،",
+  "ms": "Kemudian dia berkata: “Wahai Tuhanku, rezekinya?” Lalu Tuhanmu memutuskan apa yang Dia kehendaki, dan malaikat pun menulisnya.",
+  "ref": "",
+  "w": [
+   842,
+   852
+  ]
+ },
+ {
+  "start": 393.4,
+  "end": 398.14,
+  "kind": "h",
+  "ar": "ثُمَّ يَخْرُجُ الْمَلَكُ بِالصَّحِيفَةِ فِي يَدِهِ، فَلَا يَزِيدُ عَلَى مَا أُمِرَ وَلَا يَنْقُصُ»",
+  "ms": "Kemudian malaikat itu keluar dengan lembaran di tangannya; dia tidak menambah apa yang diperintahkan dan tidak menguranginya.”",
+  "ref": "Riwayat Muslim",
+  "w": [
+   853,
+   866
+  ]
+ },
+ {
+  "start": 398.14,
+  "end": 402.82,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maksudnya, apa yang Allah perintahkan, itulah yang ditulisnya.",
+  "ref": "",
+  "w": [
+   867,
+   873
+  ]
+ },
+ {
+  "start": 402.82,
+  "end": 404.72,
+  "kind": "s",
+  "ar": "",
+  "ms": "Bilakah penulisan itu berlaku?",
+  "ref": "",
+  "w": [
+   874,
+   876
+  ]
+ },
+ {
+  "start": 404.72,
+  "end": 411.34,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ilmu yang menyeluruh tentang perkembangan janin dalam perut ibunya, saat demi saat, tiada yang mengetahuinya melainkan Allah Subhanahu wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   877,
+   892
+  ]
+ },
+ {
+  "start": 411.34,
+  "end": 417.72,
+  "kind": "s",
+  "ar": "",
+  "ms": "Adapun pengetahuan bahawa janin itu lelaki atau perempuan, ia termasuk ilmu khusus Allah sebelum 42 hari.",
+  "ref": "",
+  "w": [
+   893,
+   907
+  ]
+ },
+ {
+  "start": 417.72,
+  "end": 425.92,
+  "kind": "s",
+  "ar": "",
+  "ms": "Selepas 42 hari, Allah memperlihatkannya kepada para doktor atau pakar pengimejan,",
+  "ref": "",
+  "w": [
+   908,
+   917
+  ]
+ },
+ {
+  "start": 425.92,
+  "end": 427.52,
+  "kind": "s",
+  "ar": "",
+  "ms": "dan mereka dapat mengetahuinya.",
+  "ref": "",
+  "w": [
+   918,
+   921
+  ]
+ },
+ {
+  "start": 427.52,
+  "end": 431.72,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tetapi sebelum itu, tiada yang mengetahuinya melainkan Allah Subhanahu wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   922,
+   931
+  ]
+ },
+ {
+  "start": 431.72,
+  "end": 435.78,
+  "kind": "s",
+  "ar": "",
+  "ms": "Sebagaimana yang kita tahu, para doktor mengetahui melalui imbasan",
+  "ref": "",
+  "w": [
+   932,
+   940
+  ]
+ },
+ {
+  "start": 435.78,
+  "end": 439.24,
+  "kind": "s",
+  "ar": "",
+  "ms": "sama ada janin dalam perut ibunya lelaki atau perempuan.",
+  "ref": "",
+  "w": [
+   941,
+   952
+  ]
+ },
+ {
+  "start": 439.24,
+  "end": 443.68,
+  "kind": "s",
+  "ar": "",
+  "ms": "Adapun sebelum itu, tiada yang mengetahuinya melainkan Allah Tabaraka wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   953,
+   961
+  ]
+ },
+ {
+  "start": 443.68,
+  "end": 445.66,
+  "kind": "q",
+  "ar": "وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ",
+  "ms": "“…dan (Dia lah jua) yang mengetahui dengan sebenar-benarnya tentang apa yang ada dalam rahim (ibu yang mengandung).”",
+  "ref": "Surah Luqman, 31:34",
+  "w": [
+   962,
+   965
+  ]
+ },
+ {
+  "start": 445.66,
+  "end": 450.16,
+  "kind": "s",
+  "ar": "",
+  "ms": "Allah berfirman “apa” dalam rahim, bukan “siapa”. Bukan soal lelaki atau perempuan,",
+  "ref": "",
+  "w": [
+   966,
+   981
+  ]
+ },
+ {
+  "start": 450.16,
+  "end": 455.7,
+  "kind": "s",
+  "ar": "",
+  "ms": "tetapi Allah mengetahui rezekinya, ajalnya, amalannya, tingginya, lebarnya dan banyak lagi perinciannya.",
+  "ref": "",
+  "w": [
+   982,
+   990
+  ]
+ },
+ {
+  "start": 455.7,
+  "end": 461.02,
+  "kind": "s",
+  "ar": "",
+  "ms": "Perkara ini tiada yang mengetahuinya melainkan Allah Subhanahu wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   991,
+   998
+  ]
+ },
+ {
+  "start": 461.08,
+  "end": 467.8,
+  "kind": "s",
+  "ar": "",
+  "ms": "Menghimpunkan dua hadis: hadis Hudhaifah bin Asid dan hadis Abdullah bin Mas‘ud.",
+  "ref": "",
+  "w": [
+   999,
+   1010
+  ]
+ },
+ {
+  "start": 467.8,
+  "end": 473.34,
+  "kind": "s",
+  "ar": "",
+  "ms": "Adakah penulisan itu selepas 120 hari, atau selepas 42 hari?",
+  "ref": "",
+  "w": [
+   1011,
+   1024
+  ]
+ },
+ {
+  "start": 473.34,
+  "end": 479.96,
+  "kind": "s",
+  "ar": "",
+  "ms": "Yang lebih kuat — wallahu a‘lam — roh ditiupkan selepas 120 hari.",
+  "ref": "",
+  "w": [
+   1025,
+   1038
+  ]
+ },
+ {
+  "start": 479.96,
+  "end": 486.56,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tetapi pembentukan rupa manusia mungkin berlaku sebelum itu. Dan Allah Tabaraka wa Ta‘ala lebih mengetahui.",
+  "ref": "",
+  "w": [
+   1039,
+   1051
+  ]
+ },
+ {
+  "start": 486.56,
+  "end": 489.04,
+  "kind": "s",
+  "ar": "",
+  "ms": "Roh mempunyai empat hubungan dengan badan.",
+  "ref": "",
+  "w": [
+   1052,
+   1057
+  ]
+ },
+ {
+  "start": 489.04,
+  "end": 494.0,
+  "kind": "s",
+  "ar": "",
+  "ms": "Pertama: dalam rahim ibu, ketika roh ditiupkan.",
+  "ref": "",
+  "w": [
+   1058,
+   1065
+  ]
+ },
+ {
+  "start": 494.0,
+  "end": 500.14,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ketika kamu dalam perut ibumu, roh ditiupkan padamu. Maka roh sudah bersamamu dalam perut ibumu.",
+  "ref": "",
+  "w": [
+   1066,
+   1079
+  ]
+ },
+ {
+  "start": 500.14,
+  "end": 505.62,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kemudian apabila kamu keluar ke dunia, ketika dilahirkan, rohmu bersama badanmu.",
+  "ref": "",
+  "w": [
+   1080,
+   1089
+  ]
+ },
+ {
+  "start": 505.62,
+  "end": 507.48,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kemudian ketika tidur.",
+  "ref": "",
+  "w": [
+   1090,
+   1093
+  ]
+ },
+ {
+  "start": 507.48,
+  "end": 512.72,
+  "kind": "q",
+  "ar": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا",
+  "ms": "“Allah (Yang Menguasai Segala-galanya), Ia mengambil dan memisahkan satu-satu jiwa dari badannya, jiwa orang yang sampai ajalnya semasa matinya, dan jiwa orang yang tidak mati: dalam masa tidurnya…”",
+  "ref": "Surah az-Zumar, 39:42",
+  "w": [
+   1094,
+   1103
+  ]
+ },
+ {
+  "start": 512.72,
+  "end": 516.72,
+  "kind": "s",
+  "ar": "",
+  "ms": "Apabila kamu tidur, rohmu diambil. Oleh itu, antara zikir sebelum tidur, kamu membaca:",
+  "ref": "",
+  "w": [
+   1104,
+   1113
+  ]
+ },
+ {
+  "start": 516.72,
+  "end": 519.74,
+  "kind": "h",
+  "ar": "«بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا»",
+  "ms": "“Dengan nama-Mu ya Allah, aku mati dan aku hidup.”",
+  "ref": "",
+  "w": [
+   1114,
+   1117
+  ]
+ },
+ {
+  "start": 519.74,
+  "end": 521.16,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dan apabila bangun, kamu membaca:",
+  "ref": "",
+  "w": [
+   1118,
+   1120
+  ]
+ },
+ {
+  "start": 521.16,
+  "end": 526.22,
+  "kind": "h",
+  "ar": "«الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا»",
+  "ms": "“Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami.”",
+  "ref": "",
+  "w": [
+   1121,
+   1129
+  ]
+ },
+ {
+  "start": 526.22,
+  "end": 530.4,
+  "kind": "q",
+  "ar": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا",
+  "ms": "“Allah… mengambil dan memisahkan satu-satu jiwa dari badannya, jiwa orang yang sampai ajalnya semasa matinya, dan jiwa orang yang tidak mati: dalam masa tidurnya…”",
+  "ref": "Surah az-Zumar, 39:42",
+  "w": [
+   1130,
+   1139
+  ]
+ },
+ {
+  "start": 530.4,
+  "end": 534.96,
+  "kind": "s",
+  "ar": "",
+  "ms": "Jiwa yang telah ditetapkan mati ke atasnya, Dia menahannya;",
+  "ref": "",
+  "w": [
+   1140,
+   1148
+  ]
+ },
+ {
+  "start": 534.96,
+  "end": 537.68,
+  "kind": "q",
+  "ar": "وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى",
+  "ms": "“…dan melepaskan balik jiwa yang lain (ke badannya) sehingga sampai ajalnya yang ditentukan.”",
+  "ref": "Surah az-Zumar, 39:42",
+  "w": [
+   1149,
+   1153
+  ]
+ },
+ {
+  "start": 537.68,
+  "end": 540.1,
+  "kind": "s",
+  "ar": "",
+  "ms": "Inilah hubungan itu: yang pertama dalam perut ibumu,",
+  "ref": "",
+  "w": [
+   1154,
+   1161
+  ]
+ },
+ {
+  "start": 540.1,
+  "end": 543.52,
+  "kind": "s",
+  "ar": "",
+  "ms": "kemudian selepas kamu lahir ke dunia, kemudian selepas kamu bangun tidur.",
+  "ref": "",
+  "w": [
+   1162,
+   1170
+  ]
+ },
+ {
+  "start": 543.52,
+  "end": 548.58,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dan yang keempat, selepas kamu mati: rohmu diambil, kemudian dikembalikan kepadamu ketika kamu dalam kubur,",
+  "ref": "",
+  "w": [
+   1171,
+   1181
+  ]
+ },
+ {
+  "start": 548.58,
+  "end": 553.62,
+  "kind": "s",
+  "ar": "",
+  "ms": "kemudian kamu keluar dari kubur menuju Hari Perhitungan.",
+  "ref": "",
+  "w": [
+   1182,
+   1188
+  ]
+ },
+ {
+  "start": 554.48,
+  "end": 557.42,
+  "kind": "s",
+  "ar": "",
+  "ms": "Adapun takdir, ia juga ada empat jenis.",
+  "ref": "",
+  "w": [
+   1189,
+   1193
+  ]
+ },
+ {
+  "start": 557.42,
+  "end": 565.32,
+  "kind": "s",
+  "ar": "",
+  "ms": "Pertama: takdir umum. Takdirmu yang umum telah ditulis,",
+  "ref": "",
+  "w": [
+   1194,
+   1199
+  ]
+ },
+ {
+  "start": 565.32,
+  "end": 566.72,
+  "kind": "s",
+  "ar": "",
+  "ms": "iaitu dalam firman Allah:",
+  "ref": "",
+  "w": [
+   1200,
+   1205
+  ]
+ },
+ {
+  "start": 566.72,
+  "end": 569.22,
+  "kind": "q",
+  "ar": "مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَـٰبٍ",
+  "ms": "“Tidak ada sesuatu kesusahan (atau bala bencana) yang ditimpakan di bumi, dan tidak juga yang menimpa diri kamu, melainkan telah sedia ada di dalam Kitab (pengetahuan Kami)",
+  "ref": "Surah al-Hadid, 57:22",
+  "w": [
+   1206,
+   1216
+  ]
+ },
+ {
+  "start": 569.22,
+  "end": 571.68,
+  "kind": "q",
+  "ar": "مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+  "ms": "sebelum Kami menjadikannya; sesungguhnya mengadakan yang demikian itu adalah mudah bagi Allah.”",
+  "ref": "Surah al-Hadid, 57:22",
+  "w": [
+   1217,
+   1225
+  ]
+ },
+ {
+  "start": 571.68,
+  "end": 572.9,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini di Lauh Mahfuz.",
+  "ref": "",
+  "w": [
+   1226,
+   1229
+  ]
+ },
+ {
+  "start": 572.9,
+  "end": 574.54,
+  "kind": "s",
+  "ar": "",
+  "ms": "Antaranya sabda Nabi ﷺ:",
+  "ref": "",
+  "w": [
+   1230,
+   1236
+  ]
+ },
+ {
+  "start": 574.54,
+  "end": 580.66,
+  "kind": "h",
+  "ar": "«إِنَّ اللهَ كَتَبَ مَقَادِيرَ الْخَلَائِقِ قَبْلَ أَنْ يَخْلُقَ السَّمَاوَاتِ وَالْأَرْضَ بِخَمْسِينَ أَلْفَ سَنَةٍ»",
+  "ms": "“Sesungguhnya Allah telah menulis takdir sekalian makhluk lima puluh ribu tahun sebelum Dia menciptakan langit dan bumi.”",
+  "ref": "Riwayat Muslim",
+  "w": [
+   1237,
+   1248
+  ]
+ },
+ {
+  "start": 580.66,
+  "end": 585.48,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kemudian takdir sepanjang umur, ketika kamu dalam perut ibumu, seperti dalam hadis Abdullah bin Mas‘ud:",
+  "ref": "",
+  "w": [
+   1249,
+   1261
+  ]
+ },
+ {
+  "start": 585.48,
+  "end": 588.8,
+  "kind": "s",
+  "ar": "",
+  "ms": "ditulis ajal, rezeki, amalan, sengsara atau bahagia, ketika dalam perut ibu.",
+  "ref": "",
+  "w": [
+   1262,
+   1272
+  ]
+ },
+ {
+  "start": 588.8,
+  "end": 590.1,
+  "kind": "s",
+  "ar": "",
+  "ms": "Inilah takdir sepanjang umur.",
+  "ref": "",
+  "w": [
+   1273,
+   1275
+  ]
+ },
+ {
+  "start": 590.1,
+  "end": 593.24,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kemudian takdir tahunan pada malam al-Qadar:",
+  "ref": "",
+  "w": [
+   1276,
+   1281
+  ]
+ },
+ {
+  "start": 593.24,
+  "end": 595.92,
+  "kind": "q",
+  "ar": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+  "ms": "“…pada malam yang berkat itu, dijelaskan (kepada malaikat) tiap-tiap perkara yang mengandungi hikmat serta tetap berlaku…”",
+  "ref": "Surah ad-Dukhan, 44:4",
+  "w": [
+   1282,
+   1286
+  ]
+ },
+ {
+  "start": 595.92,
+  "end": 597.02,
+  "kind": "s",
+  "ar": "",
+  "ms": "— pada malam al-Qadar.",
+  "ref": "",
+  "w": [
+   1287,
+   1289
+  ]
+ },
+ {
+  "start": 597.02,
+  "end": 598.5,
+  "kind": "s",
+  "ar": "",
+  "ms": "Kemudian takdir harian:",
+  "ref": "",
+  "w": [
+   1290,
+   1292
+  ]
+ },
+ {
+  "start": 598.5,
+  "end": 599.84,
+  "kind": "q",
+  "ar": "كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+  "ms": "“…Tiap-tiap masa Ia di dalam urusan (mencipta dan mentadbirkan makhluk-makhlukNya)!”",
+  "ref": "Surah ar-Rahman, 55:29",
+  "w": [
+   1293,
+   1297
+  ]
+ },
+ {
+  "start": 599.84,
+  "end": 603.48,
+  "kind": "s",
+  "ar": "",
+  "ms": "Dia menyakitkan si ini, menyihatkan si itu, mengayakan si ini, memiskinkan si itu,",
+  "ref": "",
+  "w": [
+   1298,
+   1305
+  ]
+ },
+ {
+  "start": 603.48,
+  "end": 606.52,
+  "kind": "s",
+  "ar": "",
+  "ms": "menghidupkan si ini, mematikan si itu, memberi petunjuk dan menyesatkan.",
+  "ref": "",
+  "w": [
+   1306,
+   1313
+  ]
+ },
+ {
+  "start": 606.52,
+  "end": 611.4,
+  "kind": "s",
+  "ar": "",
+  "ms": "Inilah takdir harian daripada Allah Subhanahu wa Ta‘ala.",
+  "ref": "",
+  "w": [
+   1314,
+   1320
+  ]
+ },
+ {
+  "start": 614.12,
+  "end": 619.64,
+  "kind": "h",
+  "ar": "«فَوَالَّذِي لَا إِلَهَ غَيْرُهُ إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ…»",
+  "ms": "Sabdanya: “Dan demi Tuhan yang tiada Tuhan selain-Nya, sesungguhnya seseorang daripada kamu pasti beramal dengan amal ahli syurga…” hingga akhir hadis.",
+  "ref": "",
+  "w": [
+   1321,
+   1336
+  ]
+ },
+ {
+  "start": 619.64,
+  "end": 623.26,
+  "kind": "s",
+  "ar": "",
+  "ms": "Sebahagian ulama kata ia mudraj (sisipan) kata-kata Ibn Mas‘ud,",
+  "ref": "",
+  "w": [
+   1337,
+   1345
+  ]
+ },
+ {
+  "start": 623.26,
+  "end": 628.26,
+  "kind": "s",
+  "ar": "",
+  "ms": "dan majoriti berpendapat ia sabda Nabi ﷺ, dan itulah yang sahih:",
+  "ref": "",
+  "w": [
+   1346,
+   1358
+  ]
+ },
+ {
+  "start": 628.26,
+  "end": 631.64,
+  "kind": "s",
+  "ar": "",
+  "ms": "ia sabda Nabi, kerana ada tambahan “pada apa yang zahir kepada manusia”,",
+  "ref": "",
+  "w": [
+   1359,
+   1367
+  ]
+ },
+ {
+  "start": 631.64,
+  "end": 635.9,
+  "kind": "s",
+  "ar": "",
+  "ms": "dan ini tidak mungkin melainkan daripada sabda Nabi ﷺ.",
+  "ref": "",
+  "w": [
+   1368,
+   1378
+  ]
+ },
+ {
+  "start": 635.9,
+  "end": 639.98,
+  "kind": "s",
+  "ar": "",
+  "ms": "Amalan bergantung pada pengakhiran. “Lalu mendahului kitab.” Yang terpenting ialah penutup amalanmu.",
+  "ref": "",
+  "w": [
+   1379,
+   1389
+  ]
+ },
+ {
+  "start": 639.98,
+  "end": 643.98,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ibn Daqiq al-‘Id berkata: “Ketentuan awal itu tersembunyi daripada manusia —",
+  "ref": "",
+  "w": [
+   1390,
+   1396
+  ]
+ },
+ {
+  "start": 643.98,
+  "end": 647.02,
+  "kind": "s",
+  "ar": "",
+  "ms": "kita tidak tahu apa yang ditetapkan ke atas setiap insan —",
+  "ref": "",
+  "w": [
+   1397,
+   1404
+  ]
+ },
+ {
+  "start": 647.02,
+  "end": 650.78,
+  "kind": "s",
+  "ar": "",
+  "ms": "sedangkan pengakhiran itu zahir. Ramai yang berubah daripada buruk kepada baik.”",
+  "ref": "",
+  "w": [
+   1405,
+   1413
+  ]
+ },
+ {
+  "start": 650.78,
+  "end": 653.32,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maksudnya, ramai orang bertaubat pada akhir hayat mereka.",
+  "ref": "",
+  "w": [
+   1414,
+   1420
+  ]
+ },
+ {
+  "start": 653.32,
+  "end": 657.74,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tetapi berubah daripada kebaikan kepada keburukan itu jarang.",
+  "ref": "",
+  "w": [
+   1421,
+   1428
+  ]
+ },
+ {
+  "start": 657.74,
+  "end": 661.64,
+  "kind": "s",
+  "ar": "",
+  "ms": "Siapa antara kamu pernah melihat seseorang bertaubat pada akhir hayatnya?",
+  "ref": "",
+  "w": [
+   1429,
+   1436
+  ]
+ },
+ {
+  "start": 661.64,
+  "end": 665.12,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tidakkah kamu pernah melihat orang bertaubat pada akhir hayatnya? Ramai.",
+  "ref": "",
+  "w": [
+   1437,
+   1443
+  ]
+ },
+ {
+  "start": 665.12,
+  "end": 668.2,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tetapi orang yang menyeleweng pada akhir hayatnya, sedikit.",
+  "ref": "",
+  "w": [
+   1444,
+   1450
+  ]
+ },
+ {
+  "start": 668.2,
+  "end": 670.68,
+  "kind": "s",
+  "ar": "",
+  "ms": "Iaitu seseorang di atas katil kematian menyeleweng,",
+  "ref": "",
+  "w": [
+   1451,
+   1457
+  ]
+ },
+ {
+  "start": 670.68,
+  "end": 672.8,
+  "kind": "s",
+  "ar": "",
+  "ms": "padahal dia soleh, bersolat dan berpuasa — jarang.",
+  "ref": "",
+  "w": [
+   1458,
+   1462
+  ]
+ },
+ {
+  "start": 672.8,
+  "end": 676.06,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini jarang: manusia menyeleweng menjelang kematian.",
+  "ref": "",
+  "w": [
+   1463,
+   1469
+  ]
+ },
+ {
+  "start": 676.06,
+  "end": 679.22,
+  "kind": "s",
+  "ar": "",
+  "ms": "Tetapi ramai yang bertaubat menjelang kematian.",
+  "ref": "",
+  "w": [
+   1470,
+   1475
+  ]
+ },
+ {
+  "start": 679.22,
+  "end": 681.6,
+  "kind": "s",
+  "ar": "",
+  "ms": "Menyeleweng menjelang mati sangat sedikit, bahkan jarang.",
+  "ref": "",
+  "w": [
+   1476,
+   1483
+  ]
+ },
+ {
+  "start": 681.6,
+  "end": 686.16,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ibn Daqiq al-‘Id berkata: “Berubahnya manusia daripada keburukan kepada kebaikan itu banyak,",
+  "ref": "",
+  "w": [
+   1484,
+   1494
+  ]
+ },
+ {
+  "start": 686.16,
+  "end": 688.64,
+  "kind": "s",
+  "ar": "",
+  "ms": "dan berubah daripada baik kepada buruk itu jarang.”",
+  "ref": "",
+  "w": [
+   1495,
+   1500
+  ]
+ },
+ {
+  "start": 688.64,
+  "end": 690.18,
+  "kind": "s",
+  "ar": "",
+  "ms": "Ini disokong oleh firman Allah:",
+  "ref": "",
+  "w": [
+   1501,
+   1505
+  ]
+ },
+ {
+  "start": 690.18,
+  "end": 694.78,
+  "kind": "q",
+  "ar": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+  "ms": "“Sesungguhnya orang-orang yang menegaskan keyakinannya dengan berkata: “Tuhan kami ialah Allah”, kemudian mereka tetap teguh di atas jalan yang betul…, maka tidak ada kebimbangan… terhadap mereka, dan mereka pula tidak akan berdukacita.”",
+  "ref": "Surah al-Ahqaf, 46:13",
+  "w": [
+   1506,
+   1517
+  ]
+ },
+ {
+  "start": 694.78,
+  "end": 700.24,
+  "kind": "s",
+  "ar": "",
+  "ms": "Maksudnya, jarang golongan itu berdukacita. Saya rasa kita berhenti sekarang untuk azan Isyak.",
+  "ref": "",
+  "w": [
+   1518,
+   1528
+  ]
+ },
+ {
+  "start": 700.24,
+  "end": 703.58,
+  "kind": "s",
+  "ar": "",
+  "ms": "Berapa lama lagi sebelum azan? Dua minit.",
+  "ref": "",
+  "w": [
+   1529,
+   1533
+  ]
+ }
+]
